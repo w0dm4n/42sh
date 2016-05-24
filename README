@@ -1,0 +1,2 @@
+signaux
+man waitpid (signaux child) [abord, segfault, suspended, kill]
